@@ -23,15 +23,3 @@ g++ -std=c++17 -Wall -Wextra q1.cpp -o q1
 ./q1
 ```
 
-On Windows PowerShell, run the compiled executable as `.\q1.exe`.
-
-## Submission Checklist
-- [ ] Execute all seven programs.
-- [ ] Add actual output screenshots to each task folder.
-- [ ] Record compiler version and actual commands used.
-- [ ] Complete the assignment report with predictions, design explanations, memory diagrams, sanitizer results, and complexity analysis.
-- [ ] Commit each task progressively to GitHub.
-- [ ] Replace the example register number in the repository name if necessary.
-
-## Important
-Review and understand the code, execute it on your own machine, and confirm it matches the assignment requirements before submission.
